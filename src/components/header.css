@@ -1,0 +1,24 @@
+/* header.css */
+
+/* Đặt chiều cao của logo */
+.navbar-brand img {
+    height: 40px;
+  }
+  
+  /* Thêm đường viền và làm tròn logo */
+  .navbar-brand img {
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    padding: 5px;
+  }
+  
+  /* Tùy chỉnh màu sắc khi hover vào logo */
+  .navbar-brand img:hover {
+    border-color: #ff0000;
+  }
+  
+  /* Tùy chỉnh màu nền của header */
+  .header {
+    background-color: #f0f0f0;
+  }
+  

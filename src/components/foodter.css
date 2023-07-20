@@ -1,0 +1,24 @@
+/* Footer Styles */
+footer {
+    margin-top: 5rem;
+    padding: 1.5rem 0;
+    text-align: center;
+    background-color: #f8f8f8;
+  }
+  
+  .container {
+    /* Bạn có thể tùy chỉnh các thuộc tính của container tại đây */
+  }
+  
+  /* Text Styles */
+  p {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  /* Copyright Text Styles */
+  p::before {
+    content: "\00A9";
+    padding-right: 4px;
+  }
+  

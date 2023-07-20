@@ -1,0 +1,25 @@
+.back-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the arrow icon */
+  .arrow-icon {
+    margin-right: 8px;
+    font-size: 18px;
+  }
+  
+  /* On hover, change the arrow color to a different color */
+  .back-link:hover .arrow-icon {
+    color: #007bff;
+  }
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,52 @@
+/* CSS for AdminPage component */
+
+/* Styling for the header of the table */
+th {
+    text-align: center;
+  }
+  
+  /* Styling for the Add Product button */
+  .btn-success {
+    margin-top: 15px;
+  }
+  
+  /* Styling for the modal title */
+  .modal-title {
+    text-align: center;
+  }
+  
+  /* Styling for the form labels in the modal */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Styling for the radio buttons in the filter section */
+  .radio-container {
+    margin: 5px;
+  }
+  
+  /* Styling for the labels of the radio buttons in the filter section */
+  .radio-label {
+    margin-left: 15px;
+  }
+  
+  /* Styling for the filter section container */
+  .filter-container {
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for the table */
+  .table {
+    margin-top: 15px;
+  }
+  
+  /* Styling for the table cells */
+  td {
+    text-align: center;
+  }
+  
+  /* Styling for the modal form fields */
+  .form-control {
+    margin-bottom: 10px;
+  }
+  

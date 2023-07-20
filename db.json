@@ -1,0 +1,238 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Jean Short",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/6499e1ef57003c20c8588df3/rakkiu-0099a-JJoGkX_800x800.png"
+    },
+    {
+      "id": "3",
+      "name": "Cadigan",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/6499e53d57003c20c8588e01/rakkiu-0222-wSkxEa_800x800.png"
+    },
+    {
+      "id": "4",
+      "name": "Áo thun",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/6499df4557003c20c8588de2/rakkiu-0032-90uvJ6_800x800.png"
+    },
+    {
+      "id": "5",
+      "name": "Product 2",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/6499903e57003c20c8588db4/rakkiu-0121-smhIyK_800x800.png"
+    },
+    {
+      "id": "6",
+      "name": "Product 3",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9af20cc84149440017b8/leninn-ii-26-2qL1tL_800x800.png"
+    },
+    {
+      "id": "7",
+      "name": "Product 1",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9af30cc84149440017ba/leninn-ii-27-KBG0X4_800x800.png"
+    },
+    {
+      "id": "8",
+      "name": "Product 2",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9afc0cc84149440017da/combat-short-leninn-black-0_800x800.png"
+    },
+    {
+      "id": "9",
+      "name": "Product 3",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Bottoms",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9afb0cc84149440017d8/chini-cargo-leninn-short-0_800x800.png"
+    },
+    {
+      "id": "10",
+      "name": "Product 1",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Outerwear",
+      "image": "https://cf.shopee.vn/file/c379dbd614bd5b91b836f2d961b7b23d"
+    },
+    {
+      "id": "11",
+      "name": "Product 2",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "category": "Outerwear",
+      "image": "https://cf.shopee.vn/file/b345d0effc39f50c284b32ce12df9eae"
+    },
+    {
+      "id": "12",
+      "name": "Product 3",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/6499e6da26a81d18525cc9d2/rakkiu-0236-QVFbXc_800x800.png"
+    },
+    {
+      "id": "13",
+      "name": "Product 1",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/8b42a79e045441748a66077fdd3504bc/643cf3795c65d83fa857a2cb/leninn-0032-vtOf2W_800x800.png"
+    },
+    {
+      "id": "14",
+      "name": "Product 2",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9af30cc84149440017bc/carrot-gile-corduroy-jacket-0_800x800.png"
+    },
+    {
+      "id": "15",
+      "name": "Product 3",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/1a0a6723d2cb331df1accf968b49d575/63ec9af30cc84149440017bb/black-gile-corduroy-jacket-0_800x800.png"
+    },
+    {
+      "id": "16",
+      "name": "Product 1",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Outerwear",
+      "image": "https://cdn.leninn.com/leninn/products/498f177033a33d6113cf701f95755bca/64b60f62801e957d7853af8b/lennin-0115-S3SpxO_800x800.png"
+    },
+    {
+      "id": "17",
+      "name": "Product ̉23",
+      "description": "This is the second product.",
+      "price": 24.99,
+      "stock": 50,
+      "image": "https://cdn.leninn.com/leninn/products/28c52eb6b265e3766bec2abdf75e2992/6417d936858add60a03aad5d/leniinn-1-pPPb9z_800x800.png",
+      "category": "Top"
+    },
+    {
+      "id": "18",
+      "name": "Product 3",
+      "description": "This is the third product.",
+      "price": 9.99,
+      "stock": 200,
+      "category": "Top",
+      "image": "https://cdn.leninn.com/leninn/products/e49c1d23ae511b3428244d8b9e7f902a/646de7baabb915253368e53b/9-FYSqGQ_800x800.png"
+    },
+    {
+      "id": "19",
+      "name": "Product 1",
+      "description": "This is the first product.",
+      "price": 19.99,
+      "stock": 100,
+      "category": "Top",
+      "image": "https://cdn.leninn.com/leninn/products/423621b2c065b06e3fc0ae24be5fd120/647823dbabb915253368e554/15-EejguX_800x800.png"
+    },
+    {
+      "name": "Áo thun",
+      "description": "dgsgsfg",
+      "price": "52",
+      "stock": "30",
+      "category": "Outerwear",
+      "image": "quangminh.png",
+      "id": "dNjTqQ4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Top"
+    },
+    {
+      "id": "2",
+      "name": "Outerwear"
+    },
+    {
+      "id": "3",
+      "name": "Bottoms"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "john_doe",
+      "email": "quanggminh@123.com",
+      "password": "123456",
+      "address": "123 HCm Street, City, Country",
+      "isAdmin": true
+    },
+    {
+      "name": "Hà Văn Minh",
+      "email": "minhbkvn@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": "J85ij7V"
+    },
+    {
+      "name": "quangminh11",
+      "email": "quangminh11@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": "7F9Whso"
+    },
+    {
+      "name": "quangminh12",
+      "email": "quangminh12@gmail.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": "D4Ut2SW"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": "1",
+      "products": [
+        {
+          "productId": "1",
+          "quantity": 2
+        },
+        {
+          "productId": "2",
+          "quantity": 1
+        }
+      ],
+      "total": 64.97,
+      "status": "Shipped"
+    }
+  ]
+}
